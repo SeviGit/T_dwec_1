@@ -1,0 +1,50 @@
+header{
+    text-align: center;
+    font-family: cursive;
+}
+nav{
+    width: 90%;
+    margin: 0 auto;
+    text-align: center;
+    font-family: cursive;
+    background-color:steelblue;
+    color: black;
+
+}
+.btn{
+    padding: 3px;
+    background: rgb(255, 255, 255);
+    border-color:steelblue;
+    border-radius: 3px; 
+}
+.btn:hover{
+    background: steelblue;
+}
+section{
+width: 700px;
+margin: 0 auto;
+font-size:medium;
+margin-top: 60px;
+}
+
+footer{
+    position:absolute;
+    bottom: 0;
+}
+footer h4{
+    font-family: cursive;
+    text-align: center;
+}
+.marc{
+    color: rgb(231, 231, 231);
+}
+nav a{
+    color: #000;
+    margin-left: 15px;
+    text-decoration:none;
+}
+li{
+    margin-bottom: 10px;
+}
+    
+
